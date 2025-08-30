@@ -14,7 +14,7 @@ Qiskit AER Simulator (local simulation).
 
 Modify tutorial-based circuits to meet current connectivity and job submission standards.
 
-🧩 What’s Included
+What’s Included
 
 Updated Qiskit Circuits: Modified from Qiskit’s official documentation and tutorials.
 
